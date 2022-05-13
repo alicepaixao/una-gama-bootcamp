@@ -1,0 +1,2 @@
+Implementar uma calculadora de número fatorial utilizando arrays
+O que é fatorial? https://brasilescola.uol.com.br/matematica/fatorial.htm#:~:text=O%20fatorial%20(!)%20de%20um,muito%20comum%20em%20an%C3%A1lise%20combinat%C3%B3ria.&text=Calcular%20o%20fatorial%20de%20um,estamos%20trabalhando%20com%20n%C3%BAmeros%20naturais.
